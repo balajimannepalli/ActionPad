@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="loginb">LOGIN</string>
+    <string name="title">Enter Title</string>
+    <string name="desc">Enter Description</string>
+    <string name="addb">ADD</string>
+    <string name="viewb">VIEW</string>
+</resources>
